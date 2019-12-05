@@ -1,5 +1,8 @@
 #!/usr/bin/env python
 
+# Usage Instructions:   ./custom_metric_parser.py -r ~/Desktop/2019-07-12_mts-by-metric.csv -l 5
+# If you omit the -l it defaults to 10000
+
 import argparse
 import csv
 
